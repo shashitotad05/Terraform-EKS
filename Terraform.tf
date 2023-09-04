@@ -1,5 +1,5 @@
 provider "aws" {
-  profile= "Shashi-T"
+  profile= "Profile_1" #provide a profile name 
   region = "ap-south-1"
 }
 

@@ -11,6 +11,6 @@ spec:
         path: "/Hello"
         backend:
           service:
-            name: service1
+            name: service1 #provide service name created by kubernetes
             port:
               number: 80
